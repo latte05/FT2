@@ -12,6 +12,8 @@ gem 'rails', '~> 5.0.1'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
+
 
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
